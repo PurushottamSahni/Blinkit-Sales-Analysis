@@ -27,4 +27,5 @@ The Blinkit Sales Analysis Dashboard is an interactive Power BI report designed 
    - Dynamic filters for outlet type, size, location, and item type allow users to deep-dive into specific aspects of sales performance.  
 
 ---  
-![Screenshot 2024-12-10 120454](https://github.com/user-attachments/assets/0f0fd70f-6323-46ef-a9dc-d8b924781e8e)
+
+![Dasboard](https://github.com/user-attachments/assets/a44cc7a7-c39d-45ae-9568-af998fd4f7fc)
